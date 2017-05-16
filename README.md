@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/ULL-ESIT-DSI-1617/proyecto-dsi-edna-joseluis-kevin-35l2v3-1-operation-resta.svg?branch=master)](https://travis-ci.org/ULL-ESIT-DSI-1617/proyecto-dsi-edna-joseluis-kevin-35l2v3-1-operation-resta)
+
 # operation-resta
 
 Módulo complementario para el cálculo de restas.
