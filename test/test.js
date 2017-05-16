@@ -8,7 +8,7 @@ var Resta = require("../index.js");
 describe('resta', function() {
 	it('2-3', function() {
 		var result = Operation.operate("2-3");
-		assert.equal(result, -1.00);
+		assert.equal(result, -1);
 	});
 	it('2e2-3', function() {
 		var result = Operation.operate("2e2-3");
