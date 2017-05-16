@@ -4,6 +4,7 @@
   "description": "Módulo complementario para el cálculo de restas.",
   "main": "index.js",
   "scripts": {
+    "doc": "documentation build index.js -f html -o docs",
     "test": "./node_modules/mocha/bin/mocha"
   },
   "repository": {
@@ -36,6 +37,7 @@
   },
   "devDependencies": {
     "chai": "^3.5.0",
+    "documentation": "^4.0.0-rc.1",
     "mocha": "^3.4.1"
   }
 }
