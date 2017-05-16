@@ -14,7 +14,18 @@
     "operation",
     "resta"
   ],
-  "author": "Kevin Estévez Expósito <alu0100821390@ull.edu.es> (https://alu0100821390.github.io/)",
+  "author": "Edna Liliana Galiano Camacho - José Luis Doblado González - Kevin Estévez Expósito",
+  "contributors": [
+    {
+      "name": "Edna Liliana Galiano Camacho"
+    },
+    {
+      "name": "José Luis Doblado González"
+    },
+    {
+      "name": "Kevin Estévez Expósito"
+    }
+  ],
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ULL-ESIT-DSI-1617/proyecto-dsi-edna-joseluis-kevin-35l2v3-1-operation-resta/issues"
