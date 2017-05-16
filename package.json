@@ -1,0 +1,26 @@
+{
+  "name": "@ull-edna-joseluis-kevin-35l2/ull-operation-resta",
+  "version": "1.0.0",
+  "description": "Módulo complementario para el cálculo de restas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ULL-ESIT-DSI-1617/proyecto-dsi-edna-joseluis-kevin-35l2v3-1-operation-resta.git"
+  },
+  "keywords": [
+    "operation",
+    "resta"
+  ],
+  "author": "Kevin Estévez Expósito <alu0100821390@ull.edu.es> (https://alu0100821390.github.io/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ULL-ESIT-DSI-1617/proyecto-dsi-edna-joseluis-kevin-35l2v3-1-operation-resta/issues"
+  },
+  "homepage": "https://github.com/ULL-ESIT-DSI-1617/proyecto-dsi-edna-joseluis-kevin-35l2v3-1-operation-resta#readme",
+  "dependencies": {
+    "@ull-edna-joseluis-kevin-35l2/ull-operation": "^1.0.1"
+  }
+}
