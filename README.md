@@ -4,13 +4,20 @@
 
 Módulo complementario para el cálculo de restas.
 
-## Módulo principal
+## Módulo Principal
 
-[Operation](https://github.com/ULL-ESIT-DSI-1617/proyecto-dsi-edna-joseluis-kevin-35l2v3-1-operation)
+* [Operation (repository)](https://github.com/ULL-ESIT-DSI-1617/proyecto-dsi-edna-joseluis-kevin-35l2v3-1-operation)
+* [Operation (npm)](https://www.npmjs.com/package/@ull-edna-joseluis-kevin-35l2/ull-operation)
 
-### Otros módulos disponibles
+## Módulos Disponibles
 
-[Suma](https://github.com/ULL-ESIT-DSI-1617/proyecto-dsi-edna-joseluis-kevin-35l2v3-1-operation-suma)
+### Suma
+  * [operation-suma (repository)](https://github.com/ULL-ESIT-DSI-1617/proyecto-dsi-edna-joseluis-kevin-35l2v3-1-operation-suma)
+  * [operation-suma (npm)](https://www.npmjs.com/package/@ull-edna-joseluis-kevin-35l2/ull-operation-suma)
+
+### Multiplicación
+  * [operation-multiplicacion (repository)](https://github.com/ULL-ESIT-DSI-1617/proyecto-dsi-edna-joseluis-kevin-35l2v3-1-operation-multiplicacion)
+  * [operation-multiplicacion (npm)](https://www.npmjs.com/package/@ull-edna-joseluis-kevin-35l2/ull-operation-multiplicacion)
 
 ## Asignatura DSI ULL
 
