@@ -15,9 +15,21 @@ Módulo complementario para el cálculo de restas.
   * [operation-suma (repository)](https://github.com/ULL-ESIT-DSI-1617/proyecto-dsi-edna-joseluis-kevin-35l2v3-1-operation-suma)
   * [operation-suma (npm)](https://www.npmjs.com/package/@ull-edna-joseluis-kevin-35l2/ull-operation-suma)
 
-### Multiplicación
+### Resta
+  * [operation-resta (repository)](https://github.com/ULL-ESIT-DSI-1617/proyecto-dsi-edna-joseluis-kevin-35l2v3-1-operation-resta)
+  * [operation-resta (npm)](https://www.npmjs.com/package/@ull-edna-joseluis-kevin-35l2/ull-operation-resta)
+
+### Multiplicacion
   * [operation-multiplicacion (repository)](https://github.com/ULL-ESIT-DSI-1617/proyecto-dsi-edna-joseluis-kevin-35l2v3-1-operation-multiplicacion)
   * [operation-multiplicacion (npm)](https://www.npmjs.com/package/@ull-edna-joseluis-kevin-35l2/ull-operation-multiplicacion)
+
+### División
+  * [operation-division (repository)](https://github.com/ULL-ESIT-DSI-1617/proyecto-dsi-edna-joseluis-kevin-35l2v3-1-operation-division)
+  * [operation-division (npm)](https://www.npmjs.com/package/@ull-edna-joseluis-kevin-35l2/ull-operation-division)
+
+## Documentación
+
+  [Documentación del Módulo operation-resta](https://ull-esit-dsi-1617.github.io/proyecto-dsi-edna-joseluis-kevin-35l2v3-1-operation-resta/)
 
 ## Asignatura DSI ULL
 
