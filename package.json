@@ -2,9 +2,9 @@
   "name": "@ull-edna-joseluis-kevin-35l2/ull-operation-resta",
   "version": "1.0.0",
   "description": "Módulo complementario para el cálculo de restas.",
-  "main": "index.js",
+  "main": "resta.js",
   "scripts": {
-    "doc": "documentation build index.js -f html -o docs",
+    "doc": "documentation build resta.js -f html -o docs",
     "test": "./node_modules/mocha/bin/mocha"
   },
   "repository": {
@@ -33,7 +33,7 @@
   },
   "homepage": "https://github.com/ULL-ESIT-DSI-1617/proyecto-dsi-edna-joseluis-kevin-35l2v3-1-operation-resta#readme",
   "dependencies": {
-    "@ull-edna-joseluis-kevin-35l2/ull-operation": "^1.0.3"
+    "@ull-edna-joseluis-kevin-35l2/ull-operation": "^2.0.0"
   },
   "devDependencies": {
     "chai": "^3.5.0",
