@@ -5,7 +5,7 @@ suite('operation-resta', function() {
 		if (typeof __html__ !== 'undefined') {
 			document.body.innerHTML = __html__['tests/index.html'];
 			original = document.getElementById('original');
-			operated = document.getElementById('converted');
+			operated = document.getElementById('operated');
 		}
 	});
 	
