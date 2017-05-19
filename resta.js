@@ -10,7 +10,7 @@
 	*/
 	operations['-'] = class Resta extends Operation {
 		/**
-		* Constructor de la clase Operation
+		* Constructor de la clase Resta
 		* @param {number} izq Operando izquierdo
 		* @param {number} dch Operando derecho
 		*/
