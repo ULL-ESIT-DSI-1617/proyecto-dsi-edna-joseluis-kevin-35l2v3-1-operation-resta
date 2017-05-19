@@ -1,0 +1,28 @@
+{
+  "name": "ull-edna-joseluis-kevin-35l2-ull-operation-resta",
+  "description": "Módulo complementario para el cálculo de restas.",
+  "main": "resta.js",
+  "authors": [
+    "Edna Liliana Galino Camacho",
+    "José Luis Doblado González",
+    "Kevin Estévez Expósito"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "operation",
+    "resta"
+  ],
+  "homepage": "https://github.com/ULL-ESIT-DSI-1617/proyecto-dsi-edna-joseluis-kevin-35l2v3-1-operation-resta",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "gulpfile.js",
+    "karma.conf.js"
+  ],
+  "dependencies": {
+    "ull-edna-joseluis-kevin-35l2-ull-operation": "*"
+  }
+}
