@@ -1,7 +1,5 @@
 "use strict";
 
-var Operation = require("@ull-edna-joseluis-kevin-35l2/ull-operation");
-
 (function (operations) {
 	/**
 	* Clase que calcula restas
@@ -10,7 +8,7 @@ var Operation = require("@ull-edna-joseluis-kevin-35l2/ull-operation");
 	* @param {number} izq Operando izquierdo
 	* @param {number} dch Operando derecho
 	*/
-	module.exports = operations['-'] = class Resta extends Operation {
+	operations['-'] = class Resta extends Operation {
 		/**
 		* Constructor de la clase Operation
 		* @param {number} izq Operando izquierdo
@@ -34,4 +32,4 @@ var Operation = require("@ull-edna-joseluis-kevin-35l2/ull-operation");
 	else{
 		operations.symbols = '-';
 	}
-} (global.operations = global.operations || {}));
+} (operations = operations || {}));
